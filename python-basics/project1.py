@@ -1,0 +1,6 @@
+Name = input("Enter your Name:")
+Surname = ("Champion")
+Fighting_Style = input("Enter your Fighting Style: ")
+print("welcome to the fight club " + Name)
+print("You are going to make history " + Surname)
+print("You should fight the opponets using  " + Fighting_Style)
