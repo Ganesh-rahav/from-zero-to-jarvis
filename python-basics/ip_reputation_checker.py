@@ -56,7 +56,7 @@ def threat_report():
       elif bad_ips[ip] == "Brute Force":
          Brute_count += 1  
       else:
-          supicious_count += 1
+         supicious_count += 1
        
         
     print("\n ======= Network Report ======")

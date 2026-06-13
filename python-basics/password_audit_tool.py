@@ -102,7 +102,7 @@ def remove_password():
       print(f"{count}. {password}")
       count += 1
     
-   choice = int(input("\nDelete Passwords: "))
+   choice = int(input("\nDelete Passwords : "))
 
    
 
